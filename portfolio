@@ -1,0 +1,31 @@
+<head>
+  <meta charset= "utf-8">
+  <meta name= "viewport" content= "width=device-width, initial scale=1">
+  <title>Ademiladeogo-Portfolio</title>
+</head>
+<body>
+  <header>
+  <h1>Ademiladeogo</h1>
+    <p>I am an innovator and a curious being</p>
+  </header>  
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <img src="C:\Users\adenl\Downloads\profile.jpg" alt="Ademiladeogo's headshot">
+      <p>Ademiladeogo is a young adult who is passionate about the little things of life. A hot cup of tea while binge-reading a trilogy over the weekend and beautiful sunsets where ever they appear.</p>
+      <ul>
+        <li>Loves Reading</li>
+        <li>Is Passionate About Coding</li>
+        <li>Loves the idea of a personal website</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Explore</h2>
+      <p>Visit my favourite resource on the web</p>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN: HTML</a>
+    </section>
+  </main>
+  <footer>
+     <p>© <span id="year"></span> Ademiladeogo</p>
+  </footer>
+</body>
